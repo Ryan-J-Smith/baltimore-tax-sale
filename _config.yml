@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Baltimore Tax Sale
 tagline:          'Data and Analysis'
 description:      'Analysis of data from the annual Baltimore tax sale. Made by <a href="https://twitter.com/Ryan_J_Smith" target="_blank">@Ryan_J_Smith</a>.'
-url:              http://Ryan-J-Smith.github.io/baltimore-tax-sale
+url:              http://Ryan-J-Smith.github.io/baltimore-tax-sale/
 baseurl:          http://Ryan-J-Smith.github.io/baltimore-tax-sale/
 
 author:
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          
 
 github:
   repo:           https://github.com/Ryan-J-Smith/baltimore-tax-sale
