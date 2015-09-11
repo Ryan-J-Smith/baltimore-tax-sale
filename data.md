@@ -76,3 +76,9 @@ Properties with certificates purchased earlier during the associated year's auct
 		</tr>	
 	</tbody>
 </table>
+
+---
+
+## Other Data Sources
+
+[Baltimore City Open GIS Data](http://gisdata.baltimorecity.gov/) - This site contains datasets related to the geography of Baltimore City such as neighborhood boundaries and parcel footprints.  The **Real Property** dataset hosted at this site includes vital information about the properties that isn't in the original auction data, such as the geographical coordinates of the property, the neighborhood the property belongs to, and the most recent sale value.

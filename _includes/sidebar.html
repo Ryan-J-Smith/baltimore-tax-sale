@@ -12,11 +12,11 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
       <a class="sidebar-nav-item{% if page.url == "/about/" %} active{% endif %}" href="{{ site.baseurl }}about/">About</a>
-      <a class="sidebar-nav-item{% if page.url == "/data/" %} active{% endif %}" href="{{ site.baseurl }}data/">Auction Data</a>
+      <a class="sidebar-nav-item{% if page.url == "/data/" %} active{% endif %}" href="{{ site.baseurl }}data/">Data</a>
       <a class="sidebar-nav-item{% if page.url == "/resources/" %} active{% endif %}" href="{{ site.baseurl }}resources/">Resources</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub Repo</a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; Ryan J. Smith {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
