@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Baltimore Tax Sale
+tagline:          'A Jekyll theme'
+description:      'Analysis of data from the annual Baltimore tax sale. Made by <a href="https://twitter.com/Ryan_J_Smith" target="_blank">@Ryan_J_Smith</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Ryan J. Smith'
+  url:            https://twitter.com/Ryan_J_Smith
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
