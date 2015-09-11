@@ -23,18 +23,18 @@ The **Summary** files contain results aggregated by bidder at the end of the auc
 	<tbody align="center">
 		<tr>
 			<td>2014</td>
-			<td><a href="{{ site.baseurl }}/assets/data/2014AuctionResults.csv">2014 Auction Results</a></td>
-			<td><a href="{{ site.baseurl }}/assets/data/2014AuctionSummary.csv">2014 Auction Summary</a></td>
+			<td><a href="{{ site.baseurl }}assets/data/2014AuctionResults.csv">2014 Auction Results</a></td>
+			<td><a href="{{ site.baseurl }}assets/data/2014AuctionSummary.csv">2014 Auction Summary</a></td>
 		</tr>
 		<tr>
 			<td>2013</td>
-			<td><a href="{{ site.baseurl }}/assets/data/2013AuctionResults.csv">2013 Auction Results</a></td>
-			<td><a href="{{ site.baseurl }}/assets/data/2013AuctionSummary.csv">2013 Auction Summary</a></td>
+			<td><a href="{{ site.baseurl }}assets/data/2013AuctionResults.csv">2013 Auction Results</a></td>
+			<td><a href="{{ site.baseurl }}assets/data/2013AuctionSummary.csv">2013 Auction Summary</a></td>
 		</tr>
 		<tr>
 			<td>2012</td>
-			<td><a href="{{ site.baseurl }}/assets/data/2013AuctionResults.csv">2012 Auction Results</a></td>
-			<td><a href="{{ site.baseurl }}/assets/data/2013AuctionSummary.csv">2012 Auction Summary</a></td>
+			<td><a href="{{ site.baseurl }}assets/data/2013AuctionResults.csv">2012 Auction Results</a></td>
+			<td><a href="{{ site.baseurl }}assets/data/2013AuctionSummary.csv">2012 Auction Summary</a></td>
 		</tr>		
 	</tbody>
 </table>
