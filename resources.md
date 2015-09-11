@@ -9,6 +9,6 @@ This page contains links to external resources where people can go to find more 
 
 ## Relevant External Links
 
-[Abell Foundation Report: "The Steep Price of Paying to Stay"](http://www.abell.org/sites/default/files/publications/ec-taxsale1014.pdf)
+[Abell Foundation Report: "The Steep Price of Paying to Stay"](http://www.abell.org/publications/steep-price-paying-stay)
 
 ## News Articles
