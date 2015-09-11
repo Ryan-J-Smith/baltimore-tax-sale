@@ -11,7 +11,7 @@ title:            Baltimore Tax Sale
 tagline:          'Data and Analysis'
 description:      'Analysis of data from the annual Baltimore tax sale. Made by <a href="https://twitter.com/Ryan_J_Smith" target="_blank">@Ryan_J_Smith</a>.'
 url:              http://Ryan-J-Smith.github.io/baltimore-tax-sale
-baseurl:          /baltimore-tax-sale/
+baseurl:          ""
 
 author:
   name:           'Ryan J. Smith'
